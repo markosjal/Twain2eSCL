@@ -8,6 +8,8 @@ Share a Windows Scanner with MacOS
 
 Share a Windows Scanner Witfh Linux
 
+If some day Microsoft ever stops sitting on their hands and creates a generic eSCL protocol scanner driver, this may evem then work for Windows to Windows Scanner sharing. When pigs fly.
+
 THIS PROJECT IS NOT COMPLETE AND IS IN DEVELPMENT
 
 This project uses the following pre-built binaries
