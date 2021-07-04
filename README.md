@@ -36,24 +36,15 @@ I have been using  exclusively the built in PHP Development server to test this 
 Much like the aforementioned probllem I also must run dns-sd.jar (from Apple Bonjour) from a Windows commmand prompt resulting in yet another unwanted window.
 
 
-#How to: (using PHP Development Server)
-
+How to: (using PHP Development Server)
 give your Windows host a fixed IP address (heretofore your fixed IP  is referred to as <IPAADDRESS>, and set its hostname to a known value <HOSTNAME>.
-
-  
-  Install PHP
-
+  Install PH
   Install Java
-
-  
   Install Bonjour
-
-  Install CmdTwain
-
-  Download this project ZIP
-
+  Install CmdTwai
+  Download this project ZI
   Copy fies in this project ZIP to C:\html
-  
+ 
   Start PHP Development server 
   cd C:\html
   php -S <IPADDRESS>:8000
@@ -65,7 +56,6 @@ give your Windows host a fixed IP address (heretofore your fixed IP  is referred
   Start Bonjour
   cd C:\Program Files (x86)\Bonjour
   dns-sd -R <HOSTNAME> _uscan._tcp local 8000
-
 
   Connect with Linux or Mac OS client
   
