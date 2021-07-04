@@ -36,7 +36,7 @@ I have been using  exclusively the built in PHP Development server to test this 
 Much like the aforementioned probllem I also must run dns-sd.jar (from Apple Bonjour) from a Windows commmand prompt resulting in yet another unwanted window.
 
 
-How to: (using PHP Development Server)
+#How to: (using PHP Development Server)
 
 give your Windows host a fixed IP address (heretofore your fixed IP  is referred to as <IPAADDRESS>, and set its hostname to a known value <HOSTNAME>.
 
