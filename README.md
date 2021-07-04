@@ -1,11 +1,12 @@
-# Twain2Airscan
+# Twain2eSCL a.k.a. Twain2AirScan
+
 Use a Windows computer as a host to share a scanner with MacOS or Linux.
 
 THIS PROJECT IS NOT COMPLETE AND IS IN DEVELPMENT
 
 This project uses the following pre-built binaries
 
-CmdTwain from http://www.gssezisoft.com/ (web site is currently down)
+CmdTwain from http://www.gssezisoft.com/ (web site down as of this writing)
 
 BonJour Print Services for Windows https://support.apple.com/kb/dl999?locale=en_US
 
