@@ -14,7 +14,7 @@ PHP for Windows https://windows.php.net/download/
 
 Java for Windows https://www.java.com/download/ie_manual.jsp
 
-As far as I can tell this whould work in Windows 7, through Windows 10, so even an older Windows computer with your scanner driver installed may work. 
+As far as I can tell this should work in Windows 7, through Windows 10, so even an older Windows computer with your scanner driver installed may work. 
 
 Also, it should work for users that rely on drivers from VueScan, as VueScan provides a TWAIN interface with their built in scanner drivers.
 
