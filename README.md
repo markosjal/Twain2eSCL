@@ -38,11 +38,16 @@ Much like the aforementioned probllem I also must run dns-sd.jar (from Apple Bon
 
 How to: (using PHP Development Server)
 give your Windows host a fixed IP address (heretofore your fixed IP  is referred to as <IPAADDRESS>, and set its hostname to a known value <HOSTNAME>.
-  Install PH
+  Install PHP
+  
   Install Java
+  
   Install Bonjour
-  Install CmdTwai
-  Download this project ZI
+  
+  Install CmdTwain
+  
+  Download this project ZIP
+  
   Copy fies in this project ZIP to C:\html
  
   Start PHP Development server 
