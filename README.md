@@ -50,16 +50,24 @@ give your Windows host a fixed IP address (heretofore your fixed IP  is referred
   
   Copy fies in this project ZIP to C:\html
  
-  Start PHP Development server 
+  
+  Start PHP Development server
+  
   cd C:\html
+  
   php -S <IPADDRESS>:8000
   
   Set options in
+  
   C:\scannerconfig.php (refer to scanners TWAIIN interface)
+  
   C:\scannigconfig.php
   
+  
   Start Bonjour
+  
   cd C:\Program Files (x86)\Bonjour
+  
   dns-sd -R <HOSTNAME> _uscan._tcp local 8000
 
   Connect with Linux or Mac OS client
