@@ -59,9 +59,9 @@ give your Windows host a fixed IP address (heretofore your fixed IP  is referred
   
   Set options in
   
-  C:\scannerconfig.php (refer to scanners TWAIIN interface)
+  C:\html\scannerconfig.php (refer to scanners TWAIN interface for values)
   
-  C:\scannigconfig.php
+  C:\html\scannigconfig.php
   
   
   Start Bonjour
