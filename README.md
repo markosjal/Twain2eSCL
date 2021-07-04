@@ -31,7 +31,7 @@ Linux with either the eSCL driver bundled with newer versions of SANE or the sep
 Current Limitations (aside from code not yet complete)
 I have found no way to accurately auto-populate the features available from the scanner's TWAIN interface to the eSCL interface. This must be done manually by editing scannerconfig.conf. There are also some settings/preferences not inherited from the scanner that you can set in scanningconfig.php.
 
-I have been using  exclusively the built in PHP Development server to test this which is working fine. From my experience, Apache may need a fair amout of tweaking to get it to behave correcly. The problem with this is that it is running from a command prompt at start up. Not beig a WIndows guru, I am  not sure if it can be run as a service.
+I have been using  exclusively the built in PHP Development server to test this which is working fine. From my experience, Apache may need a fair amout of tweaking to get it to behave correcly. The problem with this is that it is running from a command prompt at start up. Not being a Windows guru, I am  not sure if it can be run as a service.
 
 Much like the aforementioned probllem I also must run dns-sd.jar (from Apple Bonjour) from a Windows commmand prompt resulting in yet another unwanted window.
 
