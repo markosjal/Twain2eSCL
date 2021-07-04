@@ -37,27 +37,35 @@ Much like the aforementioned probllem I also must run dns-sd.jar (from Apple Bon
 
 
 How to: (using PHP Development Server)
+
 give your Windows host a fixed IP address (heretofore your fixed IP  is referred to as <IPAADDRESS>, and set its hostname to a known value <HOSTNAME>.
-Install PHP
-Install Java
-Install Bonjour
-Install CmdTwain
-Download this project ZIP 
+
   
-Copy fies in this project ZIP to 
-  C:\html
+  Install PHP
+
+  Install Java
+
   
-Start PHP Development server 
+  Install Bonjour
+
+  Install CmdTwain
+
+  Download this project ZIP
+
+  Copy fies in this project ZIP to C:\html
+  
+  Start PHP Development server 
   cd C:\html
   php -S <IPADDRESS>:8000
   
-Set options in
+  Set options in
   C:\scannerconfig.php (refer to scanners TWAIIN interface)
   C:\scannigconfig.php
   
-Start Bonjour
+  Start Bonjour
   cd C:\Program Files (x86)\Bonjour
   dns-sd -R <HOSTNAME> _uscan._tcp local 8000
 
-Connect with Linux or Mac OS client
+
+  Connect with Linux or Mac OS client
   
