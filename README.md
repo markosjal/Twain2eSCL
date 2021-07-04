@@ -1,4 +1,4 @@
-# Twain2eSCL
+# Twain2Airscan
 Use a Windows computer as a host to share a scanner with MacOS or Linux.
 
 THIS PROJECT IS NOT COMPLETE AND IS IN DEVELPMENT
