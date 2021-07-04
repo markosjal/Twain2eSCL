@@ -2,6 +2,12 @@
 
 Use a Windows computer as a host to share a scanner with MacOS or Linux.
 
+Share a Windows Scanner with OSX
+
+Share a Windows Scanner with MacOS
+
+Share a Windows Scanner Witfh Linux
+
 THIS PROJECT IS NOT COMPLETE AND IS IN DEVELPMENT
 
 This project uses the following pre-built binaries
